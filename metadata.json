@@ -1,0 +1,6 @@
+{
+  "name": "Global Hegemony - 100-Minute Flags Battle Royale",
+  "description": "Interactive 100-minute automated geopolitical flags battle simulation with 3-minute conquest rounds, AI diplomatic agents, royalty-free audio, and live chat event triggers for YouTube streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
